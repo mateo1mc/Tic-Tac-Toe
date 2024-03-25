@@ -32,9 +32,9 @@ Click on a square on the grid to place your mark.
 - tkinter library
 
 
-## Author
+## Preview
 
-@mateo1mc
+![Tic Tac Toe](https://github.com/mateo1mc/Tic-Tac-Toe/blob/82c8bcc508000af274f68c9f3e99644ce807ffb9/TicTacToe.png)
 
 ## Acknowledgments
 
